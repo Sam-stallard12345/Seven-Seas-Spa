@@ -12,12 +12,12 @@ This Project focuses on building a wellness website using a combination of AI to
         </ul>    
     <li><strong>Development</strong></li>
         <ul>
-            <li><strong>4.2.1 Building the navbar:</strong>Instructions for creating the navigation bar using Copilot and Bootstrap.<li>
-            <li><strong>4.2.2 Adding images:</strong>Using DALL-E to create and refine images, integrating them into your website.<li>        
-            <li><strong>4.2.3a Content Creation Challenge:</strong>Challenge to complete the homepage with Copilot-generated content.<li>        
-            <li><strong>4.2.3b Code validation:</strong>Ensuring the code meets quality standards using W3C and Copilot.<li>        
-            <li><strong>4.2.4 Keeping in contact:</strong>Creating a new contact page using AI-generated and manual coding.<li>        
-            <li><strong>4.2.5 Challenge: Create the detailed services page:</strong>Task to create a new detailed services page.<li>                
+            <li><strong>4.2.1 Building the navbar:</strong>Instructions for creating the navigation bar using Copilot and Bootstrap.</li>
+            <li><strong>4.2.2 Adding images:</strong>Using DALL-E to create and refine images, integrating them into your website.</li>        
+            <li><strong>4.2.3a Content Creation Challenge:</strong>Challenge to complete the homepage with Copilot-generated content.</li>        
+            <li><strong>4.2.3b Code validation:</strong>Ensuring the code meets quality standards using W3C and Copilot.</li>        
+            <li><strong>4.2.4 Keeping in contact:</strong>Creating a new contact page using AI-generated and manual coding.</li>        
+            <li><strong>4.2.5 Challenge: Create the detailed services page:</strong>Task to create a new detailed services page.</li>                
         </ul>
     <li><strong>RetroSpective</strong></li>
         <ul>
